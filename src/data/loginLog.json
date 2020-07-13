@@ -1,0 +1,44 @@
+{
+    "code":"000",
+    "findForPage":{
+        "endRow": 3,
+        "pageNum": 1,
+        "pageSize": 3,
+        "pages": 5,
+        "startRow": 0,
+        "total": 5,
+        "result":[
+            {
+                "accountId": 7822,
+                "isDeleted": "0",
+                "issuccess": "1",
+                "logId": 27,
+                "loginTime": 1559714019000,
+                "logoutTime": null,
+                "terminalId": 987,
+                "userId": 1
+            },
+            {
+                "accountId": 7822,
+                "isDeleted": "0",
+                "issuccess": "1",
+                "logId": 26,
+                "loginTime": 1559714019000,
+                "logoutTime": null,
+                "terminalId": 987,
+                "userId": 1
+            },
+            {
+                "accountId": 7822,
+                "isDeleted": "0",
+                "issuccess": "0",
+                "logId": 25,
+                "loginTime": 1559714019000,
+                "logoutTime": null,
+                "terminalId": 987,
+                "userId": 1
+            }
+        ]
+    }
+
+}

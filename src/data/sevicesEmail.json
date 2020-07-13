@@ -1,0 +1,35 @@
+{
+    "code": "000",
+    "data": [
+        {
+            "id" : "1",
+            "name" : "邮箱一",
+            "type" : "类型一",
+            "address" : "1234566789@163.com",
+            "opacity" : "200GB",
+            "percent" : "80%",
+            "state" : "0",
+            "user" : "张三"
+        },
+        {
+            "id" : "2",
+            "name" : "邮箱二",
+            "type" : "类型二",
+            "address" : "1234566789@163.com",
+            "opacity" : "200GB",
+            "percent" : "90%",
+            "state" : "0",
+            "user" : "张三"
+        },
+        {
+            "id" : "3",
+            "name" : "邮箱三",
+            "type" : "类型三",
+            "address" : "1234566789@163.com",
+            "opacity" : "200GB",
+            "percent" : "50%",
+            "state" : "0",
+            "user" : "张三"
+        }
+    ]
+}

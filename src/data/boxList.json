@@ -1,0 +1,35 @@
+{
+    "code":"000",
+    "data":[
+        {
+            "name":"收件箱",
+            "id":1,
+            "opacity":"10GB",
+            "usedOpacity":"1.2GB",
+            "type":"0"
+        },
+        {
+            "name":"发件箱",
+            "id":2,
+            "opacity":"10GB",
+            "usedOpacity":"2.5GB",
+            "type":"0"
+
+        },
+        {
+            "name":"草稿箱",
+            "id":3,
+            "opacity":"10GB",
+            "usedOpacity":"1.5GB",
+            "type":"0"
+
+        },
+        {
+            "name":"垃圾箱",
+            "id":4,
+            "opacity":"10GB",
+            "usedOpacity":"1GB",
+            "type":"0"
+        }
+    ]
+}

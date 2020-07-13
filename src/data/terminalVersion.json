@@ -1,0 +1,54 @@
+{
+    "code":"000",
+    "findForPage":{
+        "endRow": 3,
+        "pageNum": 1,
+        "pageSize": 3,
+        "pages": 5,
+        "startRow": 0,
+        "total": 5,
+        "result":[
+            {
+                "orgName": "单位名称1",
+                "terminalName": "终端名称",
+                "currentVersion": "1.02",
+                "terminalIP": "10.10.11.11",
+                "setupTime": "2019-06-08 13:12:03",
+                "setupType": "下载更新"
+              },
+              {
+                "orgName": "单位名称2",
+                "terminalName": "终端名称2",
+                "currentVersion": "1.01",
+                "terminalIP": "10.10.11.33",
+                "setupTime": "2019-06-09 15:12:03",
+                "setupType": "推送更新"
+              },
+              {
+                "orgName": "单位名称2",
+                "terminalName": "终端名称2",
+                "currentVersion": "1.01",
+                "terminalIP": "10.10.11.33",
+                "setupTime": "2019-06-09 15:12:03",
+                "setupType": "推送更新"
+              },
+              {
+                "orgName": "单位名称2",
+                "terminalName": "终端名称2",
+                "currentVersion": "1.01",
+                "terminalIP": "10.10.11.33",
+                "setupTime": "2019-06-09 15:12:03",
+                "setupType": "推送更新"
+              },
+              {
+                "orgName": "单位名称2",
+                "terminalName": "终端名称2",
+                "currentVersion": "1.01",
+                "terminalIP": "10.10.11.33",
+                "setupTime": "2019-06-09 15:12:03",
+                "setupType": "推送更新"
+              }
+        ]
+    }
+
+}

@@ -1,0 +1,248 @@
+{
+    "code":"000",
+    "data":{
+        "pageNum": 1,
+        "pageSize": 10,
+        "pages": 1,
+        "total": 6,
+        "today":[{
+            "mailId": "32343f308a68a6a854905a1e5a912fc4", 
+            "sender": "刘大伟", 
+            "receiver": "张小利", 
+            "mailSlevel": 3, 
+            "level": 0,
+            "mailType": 1, 
+            "isFinished": 0, 
+            "intervenedReason": "", 
+            "mailDirect": 1, 
+            "fileNumber": "001010", 
+            "createdTime": "2019-07-11 10:39:20",
+            "mailSubject": "关于组织召开学习新时代精神的培训时间安排", 
+            "mailSummary":"<div style='line-height:36px;'>尊敬的各同事,下午好：</div><div style='text-indent:2em;line-height:36px;'>关于组织召开学习新时代精神的培训时间安排通知,已经通过邮件系统发送到各位同事们的邮箱，请注意查收。这次培训很重要，要求全体员工都要参加，如有特殊情况不能按时入会，请提前说明情况。</div><div style='text-align:right;padding-left:30px;margin-top:80px;margin-bottom:15px;'>刘大伟</div><div style='text-align:right;'>2019年04月19日 16：28</div>",
+            "fileList": [
+              {
+                "fileId": "4568fdfsddfweg5gad5f65fgad4", 
+                "fileName": "本周工作总结.pdf", 
+                "filePath": "C://mailFile/file", 
+                "fileSize": 2048, 
+                "printNum": 2, 
+                "mailId": "32343f308a68a6a854905a1e5a912fc4", 
+                "fileMd5": "8f8dgfdgsfg4fh4sfgdsgs41", 
+                "fileType": "pdf",
+                "hasPrintNum": 0 
+              },
+              {
+                "fileId": "4568fdfsddfweg5gad5f65fgad5", 
+                "fileName": "下周工作计划.doc", 
+                "filePath": "C://mailFile/file", 
+                "fileSize": 2048,
+                "printNum": 3, 
+                "mailId": "32343f308a68a6a854905a1e5a912fc4", 
+                "fileMd5": "8f8dgfdgsfg4fh4sfgdsgs41", 
+                "fileType": "application/msword",
+                "hasPrintNum": 0 
+              }
+            ]
+        },
+        {
+            "mailId": "32343f308a68a6a854905a1e5a912fc4", 
+            "sender": "刘大伟", 
+            "receiver": "张小利", 
+            "mailSlevel": 3, 
+            "level": 0,
+            "mailType": 1, 
+            "isFinished": 0, 
+            "intervenedReason": "", 
+            "mailDirect": 1, 
+            "fileNumber": "001010", 
+            "createdTime": "2019-07-11 10:39:20",
+            "mailSubject": "关于组织召开学习新时代精神的培训时间安排", 
+            "mailSummary":"<div style='line-height:36px;'>尊敬的各同事,下午好：</div><div style='text-indent:2em;line-height:36px;'>关于组织召开学习新时代精神的培训时间安排通知,已经通过邮件系统发送到各位同事们的邮箱，请注意查收。这次培训很重要，要求全体员工都要参加，如有特殊情况不能按时入会，请提前说明情况。</div><div style='text-align:right;padding-left:30px;margin-top:80px;margin-bottom:15px;'>刘大伟</div><div style='text-align:right;'>2019年04月19日 16：28</div>",
+            "fileList": [
+              {
+                "fileId": "4568fdfsddfweg5gad5f65fgad4", 
+                "fileName": "本周工作总结.pdf", 
+                "filePath": "C://mailFile/file", 
+                "fileSize": 2048, 
+                "printNum": 2, 
+                "mailId": "32343f308a68a6a854905a1e5a912fc4", 
+                "fileMd5": "8f8dgfdgsfg4fh4sfgdsgs41", 
+                "fileType": "pdf",
+                "hasPrintNum": 0 
+              },
+              {
+                "fileId": "4568fdfsddfweg5gad5f65fgad5", 
+                "fileName": "下周工作计划.doc", 
+                "filePath": "C://mailFile/file", 
+                "fileSize": 2048,
+                "printNum": 3, 
+                "mailId": "32343f308a68a6a854905a1e5a912fc4", 
+                "fileMd5": "8f8dgfdgsfg4fh4sfgdsgs41", 
+                "fileType": "application/msword",
+                "hasPrintNum": 0 
+              }
+            ]
+        }],
+        "yesterday":[
+            {
+                "mailId": "32343f308a68a6a854905a1e5a912fc4", 
+                "sender": "刘大伟", 
+                "receiver": "张小利", 
+                "mailSlevel": 2, 
+                "level": 1, 
+                "mailType": 0, 
+                "isFinished": 0, 
+                "intervenedReason": "", 
+                "mailDirect": 1,
+                "fileNumber": "001010", 
+                "createdTime": "2019-07-11 10:39:20", 
+                "mailSubject": "关于组织召开学习新时代精神的培训时间安排", 
+                "mailSummary":"<div style='line-height:36px;'>尊敬的各同事,下午好：</div><div style='text-indent:2em;line-height:36px;'>关于组织召开学习新时代精神的培训时间安排通知,已经通过邮件系统发送到各位同事们的邮箱，请注意查收。这次培训很重要，要求全体员工都要参加，如有特殊情况不能按时入会，请提前说明情况。</div><div style='text-align:right;padding-left:30px;margin-top:80px;margin-bottom:15px;'>刘大伟</div><div style='text-align:right;'>2019年04月19日 16：28</div>",
+                "fileList": [
+                  {
+                    "fileId": "4568fdfsddfweg5gad5f65fgad4", 
+                    "fileName": "本周工作总结.pdf", 
+                    "filePath": "C://mailFile/file", 
+                    "fileSize": 2048, 
+                    "printNum": 2,
+                    "mailId": "32343f308a68a6a854905a1e5a912fc4", 
+                    "fileMd5": "8f8dgfdgsfg4fh4sfgdsgs41", 
+                    "fileType": "pdf",
+                    "hasPrintNum": 0 
+                  },
+                  {
+                    "fileId": "4568fdfsddfweg5gad5f65fgad5", 
+                    "fileName": "下周工作计划.doc", 
+                    "filePath": "C://mailFile/file", 
+                    "fileSize": 2048, 
+                    "printNum": 3, 
+                    "mailId": "32343f308a68a6a854905a1e5a912fc4", 
+                    "fileMd5": "8f8dgfdgsfg4fh4sfgdsgs41",
+                    "fileType": "application/msword", 
+                    "hasPrintNum": 0 
+                  }
+                ]
+            },
+            {
+                "mailId": "32343f308a68a6a854905a1e5a912fc4", 
+                "sender": "刘大伟", 
+                "receiver": "张小利", 
+                "mailSlevel": 3, 
+                "level": 0,
+                "mailType": 1, 
+                "isFinished": 0, 
+                "intervenedReason": "", 
+                "mailDirect": 1, 
+                "fileNumber": "001010", 
+                "createdTime": "2019-07-11 10:39:20",
+                "mailSubject": "关于组织召开学习新时代精神的培训时间安排", 
+                "mailSummary":"<div style='line-height:36px;'>尊敬的各同事,下午好：</div><div style='text-indent:2em;line-height:36px;'>关于组织召开学习新时代精神的培训时间安排通知,已经通过邮件系统发送到各位同事们的邮箱，请注意查收。这次培训很重要，要求全体员工都要参加，如有特殊情况不能按时入会，请提前说明情况。</div><div style='text-align:right;padding-left:30px;margin-top:80px;margin-bottom:15px;'>刘大伟</div><div style='text-align:right;'>2019年04月19日 16：28</div>",
+                "fileList": [
+                  {
+                    "fileId": "4568fdfsddfweg5gad5f65fgad4", 
+                    "fileName": "本周工作总结.pdf", 
+                    "filePath": "C://mailFile/file", 
+                    "fileSize": 2048, 
+                    "printNum": 2, 
+                    "mailId": "32343f308a68a6a854905a1e5a912fc4", 
+                    "fileMd5": "8f8dgfdgsfg4fh4sfgdsgs41", 
+                    "fileType": "pdf",
+                    "hasPrintNum": 0 
+                  },
+                  {
+                    "fileId": "4568fdfsddfweg5gad5f65fgad5", 
+                    "fileName": "下周工作计划.doc", 
+                    "filePath": "C://mailFile/file", 
+                    "fileSize": 2048,
+                    "printNum": 3, 
+                    "mailId": "32343f308a68a6a854905a1e5a912fc4", 
+                    "fileMd5": "8f8dgfdgsfg4fh4sfgdsgs41", 
+                    "fileType": "application/msword",
+                    "hasPrintNum": 0 
+                  }
+                ]
+            }
+        ],
+        "pastDay":[
+            {
+                "mailId": "32343f308a68a6a854905a1e5a912fc4", 
+                "sender": "刘大伟", 
+                "receiver": "张小利", 
+                "mailSlevel": 0,
+                "level": 2, 
+                "mailType": 2, 
+                "isFinished": 0, 
+                "intervenedReason": "", 
+                "mailDirect": 1,
+                "fileNumber": "001010", 
+                "createdTime": "2019-07-11 10:39:20", 
+                "mailSubject": "关于组织召开学习新时代精神的培训时间安排", 
+                "mailSummary":"<div style='line-height:36px;'>尊敬的各同事,下午好：</div><div style='text-indent:2em;line-height:36px;'>关于组织召开学习新时代精神的培训时间安排通知,已经通过邮件系统发送到各位同事们的邮箱，请注意查收。这次培训很重要，要求全体员工都要参加，如有特殊情况不能按时入会，请提前说明情况。</div><div style='text-align:right;padding-left:30px;margin-top:80px;margin-bottom:15px;'>刘大伟</div><div style='text-align:right;'>2019年04月19日 16：28</div>",
+                "fileList": [
+                  {
+                    "fileId": "4568fdfsddfweg5gad5f65fgad4", 
+                    "fileName": "本周工作总结.pdf", 
+                    "filePath": "C://mailFile/file", 
+                    "fileSize": 2048, 
+                    "printNum": 2, 
+                    "mailId": "32343f308a68a6a854905a1e5a912fc4", 
+                    "fileMd5": "8f8dgfdgsfg4fh4sfgdsgs41", 
+                    "fileType": "pdf",
+                    "hasPrintNum": 0 
+                  },
+                  {
+                    "fileId": "4568fdfsddfweg5gad5f65fgad5", 
+                    "fileName": "下周工作计划.doc",
+                    "filePath": "C://mailFile/file",
+                    "fileSize": 2048, 
+                    "printNum": 3, 
+                    "mailId": "32343f308a68a6a854905a1e5a912fc4",
+                    "fileMd5": "8f8dgfdgsfg4fh4sfgdsgs41", 
+                    "fileType": "application/msword", 
+                    "hasPrintNum": 0 
+                  }
+                ]
+            },
+            {
+                "mailId": "32343f308a68a6a854905a1e5a912fc4", 
+                "sender": "刘大伟", 
+                "receiver": "张小利", 
+                "mailSlevel": 3, 
+                "level": 0,
+                "mailType": 1, 
+                "isFinished": 0, 
+                "intervenedReason": "", 
+                "mailDirect": 1, 
+                "fileNumber": "001010", 
+                "createdTime": "2019-07-11 10:39:20",
+                "mailSubject": "关于组织召开学习新时代精神的培训时间安排", 
+                "mailSummary":"<div style='line-height:36px;'>尊敬的各同事,下午好：</div><div style='text-indent:2em;line-height:36px;'>关于组织召开学习新时代精神的培训时间安排通知,已经通过邮件系统发送到各位同事们的邮箱，请注意查收。这次培训很重要，要求全体员工都要参加，如有特殊情况不能按时入会，请提前说明情况。</div><div style='text-align:right;padding-left:30px;margin-top:80px;margin-bottom:15px;'>刘大伟</div><div style='text-align:right;'>2019年04月19日 16：28</div>",
+                "fileList": [
+                  {
+                    "fileId": "4568fdfsddfweg5gad5f65fgad4", 
+                    "fileName": "本周工作总结.pdf", 
+                    "filePath": "C://mailFile/file", 
+                    "fileSize": 2048, 
+                    "printNum": 2, 
+                    "mailId": "32343f308a68a6a854905a1e5a912fc4", 
+                    "fileMd5": "8f8dgfdgsfg4fh4sfgdsgs41", 
+                    "fileType": "pdf",
+                    "hasPrintNum": 0 
+                  },
+                  {
+                    "fileId": "4568fdfsddfweg5gad5f65fgad5", 
+                    "fileName": "下周工作计划.doc", 
+                    "filePath": "C://mailFile/file", 
+                    "fileSize": 2048,
+                    "printNum": 3, 
+                    "mailId": "32343f308a68a6a854905a1e5a912fc4", 
+                    "fileMd5": "8f8dgfdgsfg4fh4sfgdsgs41", 
+                    "fileType": "application/msword",
+                    "hasPrintNum": 0 
+                  }
+                ]
+            }
+        ]
+
+    }
+}

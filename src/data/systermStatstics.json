@@ -1,0 +1,53 @@
+{
+    "code":"000",
+    "findForPage":{
+        "endRow": 3,
+        "pageNum": 1,
+        "pageSize": 3,
+        "pages": 5,
+        "startRow": 0,
+        "total": 5,
+        "result":[
+            {
+                "fileNumber": "第十",
+                "ioType": "1",
+                "isDeleted": "0",
+                "logId": 16,
+                "logTime": 1559719922000,
+                "mailElevel":"3",
+                "mailSlevel": "1",
+                "mailSubject": "123",
+                "mailType": "1",
+                "receiver": "七八",
+                "sender": "第七"
+              },
+              {
+                "fileNumber": "加密",
+                "ioType": "1",
+                "isDeleted": "0",
+                "logId": 7,
+                "logTime": 1559634593000,
+                "mailElevel": "2",
+                "mailSlevel": "0",
+                "mailSubject": "邮件",
+                "mailType": "1",
+                "receiver": "科研所",
+                "sender": "研究所"
+              },
+              {
+                "fileNumber": "2211231",
+                "ioType": "1",
+                "isDeleted": "0",
+                "logId": 6,
+                "logTime": 1517587200000,
+                "mailElevel": "1",
+                "mailSlevel": "1",
+                "mailSubject": "邮箱",
+                "mailType": "0",
+                "receiver": "第九",
+                "sender": "第八"
+              }    
+        ]
+    }
+
+}

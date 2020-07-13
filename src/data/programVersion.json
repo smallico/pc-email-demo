@@ -1,0 +1,40 @@
+{
+    "code": "000",
+    "findForPage":{
+        "endRow": 3,
+        "pageNum": 1,
+        "pageSize": 3,
+        "pages": 5,
+        "startRow": 0,
+        "total": 3,
+        "result":[
+            {
+                "filePath": "E:/semail/file",
+                "uploadTime": 1562052563000,
+                "uploadUser": "admin",
+                "versionDesc": "这是版本描述",
+                "versionId": "1.2.1",
+                "versionMd5": "7070cc57ec46aba7528972ceaa93cce6",
+                "terminalNum":3
+            },
+            {
+                "filePath": "E:/semail/file",
+                "uploadTime": 1562052563000,
+                "uploadUser":  "admin",
+                "versionDesc": "这是版本描述",
+                "versionId": "1.1.0",
+                "versionMd5": "7070cc57ec46aba7528972ceaa93cce5",
+                "terminalNum":3
+            },
+            {
+                "filePath": "E:/semail/file",
+                "uploadTime": 1562052563000,
+                "uploadUser": "admin",
+                "versionDesc": "这是版本描述",
+                "versionId": "1.0.0",
+                "versionMd5": "7070cc57ec46aba7528972ceaa93cce4",
+                "terminalNum":3
+            }
+        ]
+    }
+}

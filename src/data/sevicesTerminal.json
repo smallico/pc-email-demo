@@ -1,0 +1,32 @@
+{
+    "code": "000",
+    "data": [
+        {
+            "id" : "1",
+            "name" : "终端一",
+            "type" : "类型一",
+            "ip" : "127.0.1.26",
+            "domain" : "www.zhongrun.com",
+            "state" : "0",
+            "user" : "张三"
+        },
+        {
+            "id" : "2",
+            "name" : "终端二",
+            "type" : "类型二",
+            "ip" : "127.0.1.27",
+            "domain" : "www.zhongrun.com",
+            "state" : "0",
+            "user" : "张三"
+        },
+        {
+            "id" : "3",
+            "name" : "终端三",
+            "type" : "类型三",
+            "ip" : "127.0.1.28",
+            "domain" : "www.zhongrun.com",
+            "state" : "0",
+            "user" : "张三"
+        }
+    ]
+}

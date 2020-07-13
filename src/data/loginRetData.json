@@ -1,0 +1,97 @@
+{
+  "msg": "登录成功",
+  "code": "000",
+  "menu": [
+    {
+      "resourceId": 2,
+      "resourceName": "发件",
+      "resourceDesc": "发件",
+      "resourcePid": 0,
+      "code": "send ",
+      "path": "/semail/send",
+      "icon": "fa fa-tachometer",
+      "isDeleted": "0"
+    },
+    {
+      "resourceId": 3,
+      "resourceName": "收件",
+      "resourceDesc": "收件",
+      "resourcePid": 0,
+      "code": "receive",
+      "path": "/semail/receive",
+      "icon": "fa el-icon-monitor",
+      "isDeleted": "0",
+      "isShowBorder": "1"   
+    },
+    {
+      "resourceId": 8,
+      "resourceName": "发件箱",
+      "resourceDesc": "发件箱",
+      "resourcePid": 0,
+      "code": "sendBox",
+      "path": "/semail/box/sendBox",
+      "icon": "fa el-icon-view",
+      "isDeleted": "0"
+    },
+    {
+      "resourceId": 9,
+      "resourceName": "收件箱",
+      "resourceDesc": "收件箱",
+      "resourcePid": 0,
+      "code": "receiveBox",
+      "path": "/semail/box/receiveBox",
+      "icon": "fa el-icon-sort",
+      "isDeleted": "0"
+    },
+    {
+      "resourceId": 10,
+      "resourceName": "草稿箱",
+      "resourceDesc": "草稿箱",
+      "resourcePid": 0,
+      "code": "draftBox",
+      "path": "/semail/box/draftBox",
+      "icon": "fa el-icon-attract",
+      "isDeleted": "0"
+    },
+    {
+      "resourceId": 11,
+      "resourceName": "垃圾箱",
+      "resourceDesc": "垃圾箱",
+      "resourcePid": 0,
+      "code": "trashBox",
+      "path": "/semail/box/trashBox",
+      "icon": "fa el-icon-s-check",
+      "isDeleted": "0"
+    },
+    {
+      "resourceId": 5,
+      "resourceName": "通讯录",
+      "resourceDesc": "通讯录",
+      "resourcePid": 0,
+      "code": "contact",
+      "path": "/semail/contact",
+      "icon": "fa fa-wrench",
+      "isDeleted": "0"
+    },
+    {
+      "resourceId": 6,
+      "resourceName": "个人设置",
+      "resourceDesc": "个人设置",
+      "resourcePid": 0,
+      "code": "config",
+      "path": "/semail/setting",
+      "icon": "fa fa-file-text-o",
+      "isDeleted": "0"
+    },
+    {
+      "resourceId": 7,
+      "resourceName": "高级检索",
+      "resourceDesc": "高级检索",
+      "resourcePid": 0,
+      "code": "log",
+      "path": "/semail/search",
+      "icon": "fa el-icon-collection",
+      "isDeleted": "0"
+    }
+  ]
+}

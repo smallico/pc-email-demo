@@ -1,0 +1,12 @@
+.scrollContainer {
+  cursor: ew-resize;
+  white-space: nowrap;
+  position: relative;
+  overflow: hidden;
+  width: 100%;
+  .scrollWrapper {
+    padding: 0 4px;
+    position: absolute;
+    transition: left 0.3s ease-in-out;
+  }
+}

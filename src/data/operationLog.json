@@ -1,0 +1,35 @@
+{
+    "code":"000",
+    "findForPage":{
+        "endRow": 3,
+        "pageNum": 1,
+        "pageSize": 3,
+        "pages": 5,
+        "startRow": 0,
+        "total": 5,
+        "result":[
+            {
+                "actionId": "维护组织机构",
+                "isDeleted": "0",
+                "logId": 17,
+                "logTime": 1560945258000,
+                "userId": 1
+            },
+            {
+                "actionId": "添加管理员",
+                "isDeleted": "0",
+                "logId": 18,
+                "logTime": 1560945258000,
+                "userId": 1
+            },
+             {
+                 "actionId": "删除邮件",
+                "isDeleted": "0",
+                "logId": 19,
+                "logTime": 1560945258000,
+                "userId": 1
+            }
+        ]
+    }
+
+}

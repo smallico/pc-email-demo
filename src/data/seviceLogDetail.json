@@ -1,0 +1,14 @@
+{
+    "code":"000",
+    "selectById":{     
+        "isDeleted": "0",
+        "iserror": "1",
+        "lineNumber": 1142,
+        "logContent": "运行异常",
+        "logId": 12161,
+        "logNode": "一节点",
+        "logTime": 1560945258000,
+        "moduleName": "业务模块",
+        "runType":"1"
+    }
+}

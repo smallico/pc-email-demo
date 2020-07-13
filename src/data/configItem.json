@@ -1,0 +1,45 @@
+{
+    "code": "000",
+    "findForPage":[
+        {
+            "isDeleted": "0",
+            "itemDesc": "暂无",
+            "itemId": "url",
+            "itemValue": "jdbc:dm://127.0.0.1:5236/SEMAIL",
+            "typeId": "test1",
+            "valueType": "jdbc.url"
+       },
+       {
+            "isDeleted": "0",
+            "itemDesc": "暂无",
+            "itemId": "username",
+            "itemValue": "",
+            "typeId": "test1",
+            "valueType": "jdbc.username"
+       },
+       {
+            "isDeleted": "0",
+            "itemDesc": "暂无",
+            "itemId": "password",
+            "itemValue": "",
+            "typeId": "test1",
+            "valueType": "jdbc.password"
+        },
+        {
+            "isDeleted": "0",
+            "itemDesc": "暂无",
+            "itemId": "driverClassName",
+            "itemValue": "com.alibaba.druid.pool.DruidDataSource",
+            "typeId": "test1",
+            "valueType": "jdbc.driverClassName"
+        },
+        {
+            "isDeleted": "0",
+            "itemDesc": "暂无",
+            "itemId": "type",
+            "itemValue": "com.alibaba.druid.pool.DruidDataSource",
+            "typeId": "test1",
+            "valueType": "datasource.type"
+        }
+   ]
+}

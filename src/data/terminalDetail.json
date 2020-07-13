@@ -1,0 +1,18 @@
+{
+    "code":"000",
+    "mailTerminal":{
+        "isDeleted": "0",
+        "isEdited": 1,
+        "orderNum": 2,
+        "orgId": 3,
+        "originalId": "1",
+        "terminalCode": "0",
+        "terminalContact": "1555",
+        "terminalDomain": "1",
+        "terminalId": 2,
+        "terminalIp": "172.16.8.231",
+        "terminalName": "2222",
+        "terminalPhone": "1",
+        "terminalType": "test"
+    }
+}

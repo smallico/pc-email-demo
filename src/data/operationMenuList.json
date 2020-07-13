@@ -1,0 +1,57 @@
+{
+    "code": "000",
+    "menu": [
+        {
+            "resourceId": 2,
+            "resourceName": "服务管理",
+            "resourceDesc": "服务管理",
+            "resourcePid": 0,
+            "code": "service ",
+            "path": "/semail/service",
+            "icon": "fa fa-tachometer",
+            "isDeleted": "0"
+        },
+        {
+            "resourceId": 3,
+            "resourceName": "配置管理",
+            "resourceDesc": "配置管理",
+            "resourcePid": 0,
+            "code": "config ",
+            "path": "/semail/config",
+            "icon": "fa el-icon-s-check",
+            "isDeleted": "0"
+        },
+        {
+            "resourceId": 6,
+            "resourceName": "接入管理",
+            "resourceDesc": "接入管理",
+            "resourcePid": 0,
+            "code": "accessIn ",
+            "path": "/semail/accessIn",
+            "icon": "fa fa-file-text-o",
+            "isDeleted": "0"
+        },
+        {
+            "resourceId": 4,
+            "resourceName": "日志管理",
+            "resourceDesc": "日志管理",
+            "resourcePid": 0,
+            "code": "log ",
+            "path": "/semail/log",
+            "icon": "fa fa-file-text-o",
+            "isDeleted": "0"
+        },
+        {
+            "resourceId": 5,
+            "resourceName": "其他管理",
+            "resourceDesc": "其他管理",
+            "resourcePid": 0,
+            "code": "others ",
+            "path": "/semail/others",
+            "icon": "fa fa-file-text-o",
+            "isDeleted": "0"
+        }
+      
+    ]
+  }
+  

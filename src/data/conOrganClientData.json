@@ -1,0 +1,161 @@
+{
+    "code": "000",
+    "data": [
+        {
+			"name" : "中软集团",
+			"id":"0",
+			"children": [
+			{
+				"name": "北京总部",
+				"id":"1",
+				"children":[
+				  {
+					"name": "财务部",
+					"id":"1-1",
+					"children": [
+					  {
+						"name": "终端一",
+						"userId":"1",
+						"id":"1-1-1",
+						"email":"177105488@qq.com",
+						"phone":"17710221145",
+						"status": "0",
+						"isCreated": "0",
+						"opacity": "0GB",
+						"isStop": "0", 
+						"percent": "90%"            
+					},
+					{
+					  "name": "终端二",
+					  "userId":"3",
+					  "id":"1-1-3",
+					  "email":"244105488@qq.com",
+					  "phone":"17710221145",
+					  "status": "0",
+					  "isCreated": "1",
+					  "opacity": "0GB",
+					  "isStop": "1",
+					  "percent": "80%"            
+						
+				  },
+				  {
+					"name": "终端三",
+					"userId":"5",
+					"id":"1-1-5",
+					"email":"5694405488@qq.com",
+					"phone":"17710221145",
+					"status": "0",
+					"isCreated": "0",
+					"opacity": "0GB",
+					"isStop": "0",
+					"percent": "70%"              
+				  }
+					]
+				  },
+				  {
+					"name": "人事部",
+					"id":"2",
+					"children": [
+					  {
+						"name": "终端四",
+						"userId":"7",
+						"id":"2-7",
+						"email":"1143335488@qq.com",
+						"phone":"17710221145",
+						"status": "0",
+						"isCreated": "0",
+						"opacity": "0GB",
+						"isStop": "0",
+						"percent": "60%"                
+					  },
+					  {
+						"name": "终端五",
+						"userId":"9",
+						"id":"2-9",
+						"email":"8877635488@qq.com",
+						"phone":"17710221145",
+						"status": "0",
+						"isCreated": "0",
+						"opacity": "0GB",
+						"isStop": "0",
+						"percent": "50%"               
+					  }
+					]
+				  }
+				]
+			   },
+				{
+				  "name": "上海第一分公司",
+				  "id":"3",
+				  "children": [
+					{
+					  "name": "终端六",
+					  "userId":"2",
+					  "id":"3-2",
+					  "email":"277105488@qq.com",
+					  "phone":"17710221145",
+					  "status": "0",
+					  "isCreated": "0",
+					  "opacity": "0GB",
+					  "isStop": "0",
+					  "percent": "30%"            
+				  },
+				  {
+					"name": "终端七",
+					"userId":"4",
+					"id":"3-4",
+					"email":"9844105488@qq.com",
+					"phone":"17710221145",
+					"status": "0",
+					"isCreated": "0",
+					"opacity": "0GB",
+					"isStop": "0",
+					"percent": "20%"            
+				  },
+				  {
+					"name": "终端八",
+					"userId":"6",
+					"id":"3-5",
+					"email":"44563335488@qq.com",
+					"phone":"17710221145",
+					"status": "0",
+					"isCreated": "0",
+					"opacity": "0GB",
+					"isStop": "0",
+					"percent": "0%"   
+					
+				  }
+				  ]
+				},
+				{
+				  "name": "天津第二分公司",
+				  "children": [
+					{
+					  "name": "终端九",
+					  "userId":"8",
+					  "email":"701143335488@qq.com",
+					  "phone":"17710221145",
+					  "status": "0",
+					  "isCreated": "0",
+					  "opacity": "0GB",
+					  "isStop": "0",
+					  "percent": "0%" 
+					},
+					{
+					  "name": "终端十",
+					  "userId":"10",
+					  "email":"428877635488@qq.com",
+					  "phone":"17710221145",
+					  "status": "0",
+					  "isCreated": "0",
+					  "opacity": "0GB",
+					  "isStop": "0",
+					  "percent": "0%" 
+					}
+				  ]
+				}
+			]
+		}   
+      ]
+  }
+  

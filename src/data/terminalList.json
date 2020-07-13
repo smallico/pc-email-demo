@@ -1,0 +1,62 @@
+{
+    "code":"000",
+    "findForPage":{
+        "endRow": 3,
+        "pageNum": 1,
+        "pageSize": 3,
+        "pages": 5,
+        "startRow": 0,
+        "total": 3,
+        "result":[
+            {
+                "isDeleted": "0",
+                "isEdited": 1,
+                "orderNum": 2,
+                "orgId": 3,
+                "originalId": "1",
+                "terminalCode": "010010",
+                "terminalContact": "admin",
+                "terminalDomain": "终端域名",
+                "terminalId": 2,
+                "terminalIp": "172.16.8.231",
+                "terminalName": "终端一",
+                "terminalPhone": "15519846685",
+                "terminalType": "终端类型一",
+                "status": "0"
+            },
+            {
+                "isDeleted": "0",
+                "isEdited": 1,
+                "orderNum": 2,
+                "orgId": 3,
+                "originalId": "1",
+                "terminalCode": "410010",
+                "terminalContact": "admin",
+                "terminalDomain": "终端域名",
+                "terminalId": 3,
+                "terminalIp": "172.16.8.231",
+                "terminalName": "终端二",
+                "terminalPhone": "15519846685",
+                "terminalType": "终端类型二",
+                "status": "1"
+            },
+            {
+                "isDeleted": "0",
+                "isEdited": 1,
+                "orderNum": 2,
+                "orgId": 3,
+                "originalId": "1",
+                "terminalCode": "010010",
+                "terminalContact": "admin",
+                "terminalDomain": "终端域名",
+                "terminalId": 4,
+                "terminalIp": "172.16.8.231",
+                "terminalName": "终端三",
+                "terminalPhone": "15519846685",
+                "terminalType": "终端类型三",
+                "status": "0"
+            }
+        ]
+    }
+
+}

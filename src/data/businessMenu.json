@@ -1,0 +1,66 @@
+{
+    "code": "000",
+    "menu": [
+        {
+            "resourceId": 2,
+            "resourceName": "机构管理",
+            "resourceDesc": "机构管理",
+            "resourcePid": 0,
+            "code": "organ ",
+            "path": "/semail/organ",
+            "icon": "fa fa-tachometer",
+            "isDeleted": "0"
+        },
+        {
+            "resourceId": 3,
+            "resourceName": "终端管理",
+            "resourceDesc": "终端管理",
+            "resourcePid": 0,
+            "code": "terminal ",
+            "path": "/semail/terminal",
+            "icon": "fa el-icon-s-check",
+            "isDeleted": "0"
+        },
+        {
+            "resourceId": 6,
+            "resourceName": "用户管理",
+            "resourceDesc": "用户管理",
+            "resourcePid": 0,
+            "code": "user ",
+            "path": "/semail/user",
+            "icon": "fa fa-file-text-o",
+            "isDeleted": "0"
+        },
+        {
+            "resourceId": 7,
+            "resourceName": "报箱管理",
+            "resourceDesc": "报箱管理",
+            "resourcePid": 0,
+            "code": "businessBox ",
+            "path": "/semail/businessBox",
+            "icon": "fa fa-file-text-o",
+            "isDeleted": "0"
+        },
+        {
+            "resourceId": 5,
+            "resourceName": "报务统计",
+            "resourceDesc": "报务统计",
+            "resourcePid": 0,
+            "code": "receiveAndSend ",
+            "path": "/semail/receiveAndSend",
+            "icon": "fa fa-file-text-o",
+            "isDeleted": "0"
+        },
+        {
+            "resourceId": 4,
+            "resourceName": "日志管理",
+            "resourceDesc": "日志管理",
+            "resourcePid": 0,
+            "code": "businessLog ",
+            "path": "/semail/businessLog",
+            "icon": "fa fa-file-text-o",
+            "isDeleted": "0"
+        }
+    ]
+  }
+  

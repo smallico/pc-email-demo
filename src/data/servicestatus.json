@@ -1,0 +1,42 @@
+{
+    "code":"000",
+    "status":2,
+    "findForPage":{
+        "endRow": 5,
+        "pageNum": 1,
+        "pageSize": 5,
+        "pages": 1,
+        "startRow": 0,
+        "total": 3,
+        "result":[
+            {     
+                "isDeleted": "0",
+                "serviceAddress": "http://localhost:8401/log/selectLog",
+                "serviceId": 2,
+                "serviceName": "日志",
+                "serviceParameter": "type=service,pageNumber=1,pageSize=3",
+                "serviceStatus": "1",
+                "serviceTime": 1562137198000
+            },
+            {     
+                "isDeleted": "0",
+                "serviceAddress": "http://localhost:8401/log/selectLog",
+                "serviceId": 3,
+                "serviceName": "日志",
+                "serviceParameter": "type=service,pageNumber=1,pageSize=3",
+                "serviceStatus": "1",
+                "serviceTime": 1562137198000
+            },
+            {     
+                "isDeleted": "0",
+                "serviceAddress": "http://localhost:8401/log/selectLog",
+                "serviceId": 4,
+                "serviceName": "日志",
+                "serviceParameter": "type=service,pageNumber=1,pageSize=3",
+                "serviceStatus": "1",
+                "serviceTime": 1562137198000
+            }
+        ]
+    }
+
+}

@@ -1,0 +1,51 @@
+{
+    "code":"000",
+    "findForPage":{
+        "endRow": 5,
+        "pageNum": 1,
+        "pageSize": 5,
+        "pages": 1,
+        "startRow": 0,
+        "total": 3,
+        "result":[
+            {     
+                "isDeleted": "0",
+                "iserror": "1",
+                "lineNumber": 1142,
+                "logContent": "运行异常",
+                "logId": 12161,
+                "logNode": "一节点",
+                "logTime": 1560945258000,
+                "moduleName": "业务模块",
+                "runType":"1",
+                "errCode":401
+            },
+            {     
+                "isDeleted": "0",
+                "iserror": "1",
+                "lineNumber": 42,
+                "logContent": "运行异常",
+                "logId": 12160,
+                "logNode": "一节点",
+                "logTime": 1560945258000,
+                "moduleName": "业务模块",
+                "runType":"1",
+                "errCode":"500"
+            },
+            {     
+                "isDeleted": "0",
+                "iserror": "1",
+                "lineNumber": 163,
+                "logContent": "运行异常",
+                "logId": 12159,
+                "logNode": "一节点",
+                "logTime": 1560945258000,
+                "moduleName": "业务模块",
+                "runType":"1",
+                "errcCode": "502"
+            }
+            
+        ]
+    }
+
+}

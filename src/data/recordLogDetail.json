@@ -1,0 +1,16 @@
+{
+    "code":"000",
+    "selectById":{     
+        "fileNumber": "2211231",
+        "ioType": "1",
+        "isDeleted": "0",
+        "logId": 6,
+        "logTime": 1517587200000,
+        "mailElevel": "2",
+        "mailSlevel": "1",
+        "mailSubject": "邮箱",
+        "mailType": 1,
+        "receiver": "第九",
+        "sender": "第八"
+    }
+}

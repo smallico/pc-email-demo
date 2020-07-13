@@ -1,0 +1,70 @@
+{
+    "code": "000",
+    "data":{
+        "pageNum": 1,
+        "pageSize": 10,
+        "startRow": 0,
+        "endRow": 10,
+        "total": 1,
+        "pages": 1,
+        "today":[
+            {
+				"mailId": "32343f308a68a6a854905a1e5a912fc4",
+				"fileNumber": "0110",
+				"mailType": 0,
+				"mailSlevel": 1,
+				"mailSubject": "邮件主题",
+				"mailSummary": "邮件发文概要",
+				"createdTime": "2019-06-04 15:43:31",
+				"createdBy": 1,
+				"sendType": "0",
+				"isFinished": "1",
+				"intervenedReason": "我是人工干预原因",
+				"intervenedTime": "2019-06-04 15:43:31",
+				"intervenedBy": 1,
+				"isDeleted": "0",
+				"deletedBy": 1,
+				"deletedTime": "2019-06-04 15:43:31",
+				"mailDirect": "0"
+            },
+            {
+				"mailId": "32343f308a68a6a854905a1e5a912fc4",
+				"fileNumber": "0110",
+				"mailType": 0,
+				"mailSlevel": 1,
+				"mailSubject": "邮件主题",
+				"mailSummary": "邮件发文概要",
+				"createdTime": "2019-06-04 15:43:31",
+				"createdBy": 1,
+				"sendType": "0",
+				"isFinished": "1",
+				"intervenedReason": "我是人工干预原因",
+				"intervenedTime": "2019-06-04 15:43:31",
+				"intervenedBy": 1,
+				"isDeleted": "0",
+				"deletedBy": 1,
+				"deletedTime": "2019-06-04 15:43:31",
+				"mailDirect": "0"
+			},
+            {
+				"mailId": "32343f308a68a6a854905a1e5a912fc4",
+				"fileNumber": "0110",
+				"mailType": 0,
+				"mailSlevel": 1,
+				"mailSubject": "邮件主题",
+				"mailSummary": "邮件发文概要",
+				"createdTime": "2019-06-04 15:43:31",
+				"createdBy": 1,
+				"sendType": "0",
+				"isFinished": "1",
+				"intervenedReason": "我是人工干预原因",
+				"intervenedTime": "2019-06-04 15:43:31",
+				"intervenedBy": 1,
+				"isDeleted": "0",
+				"deletedBy": 1,
+				"deletedTime": "2019-06-04 15:43:31",
+				"mailDirect": "0"
+			}
+        ]
+    }
+}

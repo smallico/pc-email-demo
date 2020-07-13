@@ -1,0 +1,21 @@
+{
+    "code": "000",
+    "findForPage":[
+        {
+            "children": null,
+            "isDeleted": "0",
+            "typeDesc": "暂无",
+            "typeEnvir": 1,
+            "typeId": "test1",
+            "typeName": "数据库配置"
+       },
+       {
+        "children": null,
+        "isDeleted": "0",
+        "typeDesc": "暂无",
+        "typeEnvir": 1,
+        "typeId": "test2",
+        "typeName": "其他接口参数配置"
+       }
+   ]
+}
